@@ -1,4 +1,5 @@
 rootProject.name = "board-msa"
 
 include("userService")
-include("eurekaService")
+include("eurekaServer")
+include("configServer")
